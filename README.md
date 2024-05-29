@@ -9,6 +9,8 @@ This project aims to evaluate the effect of moving the first in-game gate from l
 Objective
 
 Determine the optimal placement of the first in-game gate to maximize player retention.
+
+
 Methodology
 
 Data Collection
